@@ -15,7 +15,6 @@
     "@types/cheerio": "^0.22.21",
     "axios": "^0.19.2",
     "cheerio": "^1.0.0-rc.3",
-    "sanitize-filename": "^1.6.3",
     "youtube-dl": "^3.0.2"
   },
   "devDependencies": {
