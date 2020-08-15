@@ -9,7 +9,7 @@
 <meta name='apple-mobile-web-app-capable' content='yes' />
 <meta charset="UTF-8">
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="uO00DZoPcFBxRp6PURBwu1L3MqyXl1yx7hp3lUQWvIOE9CbpyqHdFdi+7BXHrDWM9oQTC1kQtrboS7zS4hl8/g==" />
+<meta name="csrf-token" content="xjtvW0DhKmS2BHEOQPHrM8ZJU2pM95iK/GQ52vkg86/aTVohck4ZOYCY0TiYth3v1D1b1AOHWKzu5bYt+0LjgQ==" />
 <link rel="stylesheet" media="screen" href="https://fedora.teachablecdn.com/assets/bootstrap-d989a3f5b1f1bca0585c204acf93e7e781ab3db1f16f403a5e77336f1c4d4c0f.css" data-turbolinks-track="true" /><link href="https://themes2.teachablecdn.com/themecss/production/base.css?_=befdb3f65d2a&amp;brand_course_heading=%23ffffff&amp;brand_heading=%23fa923f&amp;brand_homepage_heading=%23ffffff&amp;brand_navbar_fixed_text=%23ffffff&amp;brand_navbar_text=%23ffffff&amp;brand_primary=%231d1d1d&amp;brand_secondary=%23fa923f&amp;brand_text=%23000000&amp;logged_out_homepage_background_image_overlay=0.0&amp;logged_out_homepage_background_image_url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2F9gnn8xNRC23dQ2CBtc8f" rel="stylesheet" data-turbolinks-track="true"></link>
 <title>Welcome to the Course! | Academind</title>
 <meta name="description" content="Learn all the core basics and fundamentals about JavaScript algorithms, dive into tons of examples and get a plan for building and measuring algorithms.">
@@ -3905,5 +3905,5 @@
     <!-- No lecture footer in the new redesign -->
 
     
-  <script type="text/javascript">(function(){window['__CF$cv$params']={r:'5c2e538f2d02b55e',m:'6a0281cdc46b2f308c09adbc9b31f3f0de671606-1597446387-1800-AXLeldd6BfI81Zgx7IgXKM1boebSaJNYt6HjXRraMtw5nQJDTq/t6G0ryvIkj+4PsSHNh2ACqerclL8QfbS03AWA6HiUG6qLIbQbJJiXLFfc2ntsoudxUdZa9sNm3PXmHpIRGj2PaqZ5gk6VqEAjsBkC3W+PAuJd3fkpNqROVEJA6ZPzU4xNVwDdOBtt3ciiMAPtysk19w1SCLiAef7W2EM=',s:[0xa0ab7cead4,0x598ff5df17],}})();</script></body>
+  <script type="text/javascript">(function(){window['__CF$cv$params']={r:'5c2eafd5dc6bda9e',m:'c0bf4aaad5ef51c7251a83c146c4e42f634b49f5-1597450167-1800-AYSPwKgBDVBGm823+/J2B0oLQWas0skesmtJJKB6fsacKi1tU4R1fJqOcUTTmviwDTWaQVttaSMXgz+PKv2XhpW6r6HzhDeY7t/gXdMJqgoAve9zKdyP/lkRs1S0KQZThMwUhDzNZNzY6ajzkWquXXStrL9Y4h4nCqceeB92cgjmuGyct7NDY0bNroH+2aK29VQgTeRtj3GgMOqJOlmAzyo=',s:[0x0e89833239,0xa3028a8775],}})();</script></body>
 </html>
